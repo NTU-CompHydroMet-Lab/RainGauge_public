@@ -7,6 +7,7 @@ All gauges are installed on the roof top of the Civil Engineering Research Build
 
 How to get data from our server.  
 ----------------------------------
+Please refer to our examples.
 In this [Influxdb official tutorial](https://docs.influxdata.com/influxdb/v2.6/query-data/), there is a complete tutorial showing how to query data from influxdb.  
 
 ## Gauges information
