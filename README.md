@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/638530063.svg)](https://zenodo.org/badge/latestdoi/638530063)
 NTUCE-CompHydroMet-Lab
 =========
 
