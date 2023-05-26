@@ -2,13 +2,14 @@
 NTUCE-CompHydroMet-Lab
 =========
 
-This repository is a simple program that collect different gauge data and store them in influxdb.  
-We also provide API and example to acquire data.  
+This repository is part of the Extreme Rainfall Monitoring Network (ERMN) campaign. 
+We open source all the developments in ERMN, including programmes that collect different gauge data and store them in influxdb (see gauges folder).  
+You can also find API and example scirpts to acquire data (see examples folder).  
 All gauges are installed on the roof top of the Civil Engineering Research Building ([CERB](https://goo.gl/maps/cPMwUBwyFxDYLgTM7)) in National Taiwan University.
 
-How to get data from our server.  
+How to access data from our server.  
 ----------------------------------
-Please refer to our examples.
+Please refer to the examples folder.
 In this [Influxdb official tutorial](https://docs.influxdata.com/influxdb/v2.6/query-data/), there is a complete tutorial showing how to query data from influxdb.  
 
 ## Gauges information
